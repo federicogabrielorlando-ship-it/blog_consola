@@ -1,0 +1,9 @@
+# Archivos que genera Python al ejecutar
+__pycache__/
+
+# Entornos virtuales
+venv/
+.venv/
+
+# Carpeta temporal que usa pruebas.py
+pruebas_tmp/
